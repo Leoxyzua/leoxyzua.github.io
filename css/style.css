@@ -37,6 +37,10 @@ body {
     color: rgb(57, 57, 255);
 }
 
+.main-text .sub-text > i {
+    color: rgb(57, 57, 255);
+}
+
 .main-text .sub-text > a:hover {
     text-decoration: underline;
 }
@@ -49,7 +53,7 @@ body {
 .socials > h1 {
     color: white;
     font-size: 30px;
-    margin-top: 70px;
+    margin-top: 50px;
     padding: 5px;
 }
 
